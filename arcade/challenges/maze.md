@@ -1,0 +1,3 @@
+# Maze
+
+FruitSalad's Maze Game is an exhilarating journey that combines strategy, quick thinking, and knowledge. Your objective is simple: find the exit within a challenging maze while facing barriers that can only be overcome by answering questions correctly. As you navigate the labyrinth, you'll encounter barriers that require your knowledge and intellect to overcome. Answer the questions correctly to clear the path, but beware—the clock is ticking, and time is running out. Can you conquer the maze, overcome the obstacles, and make your way to the exit in time, or will you face the consequences of the unknown? It's a thrilling adventure that puts your problem-solving skills to the test!

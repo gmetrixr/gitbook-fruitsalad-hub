@@ -1,0 +1,3 @@
+# Escape Room
+
+The Escape Room Game offered by FruitSalad is a thrilling adventure that challenges your problem-solving skills and creativity. In this virtual escape room, you find yourself locked in a mysterious space with a series of hints to guide you. Your mission is to decipher clues, unravel mysteries, and discover the hidden answers that will lead to your escape. It's a race against time that demands teamwork, critical thinking, and a keen eye for detail. Can you crack the code and make your escape before time runs out? Prepare for an immersive experience that will put your wits to the test!

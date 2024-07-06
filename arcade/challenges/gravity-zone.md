@@ -1,0 +1,3 @@
+# Gravity Zone
+
+Step into the world of FruitSalad's Gravity Zone, an intense and heart-pounding challenge inspired by the thrill of space exploration. In this immersive experience, you find yourself in a space environment, where your mission is to step on the correct platform ahead of you. One wrong move, and you'll plunge into the abyss of space. It's a high-stakes game that demands split-second decisions, agility, and nerve-wracking precision. Can you navigate the cosmic terrain and make every step count, or will you become lost in the infinite void of space? Brace yourself for an adrenaline-pumping adventure that will test your reflexes and determination to the limits!
