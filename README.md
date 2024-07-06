@@ -4,7 +4,7 @@ Imagine if creating a journey of learning - backed by proven pedagogical models 
 
 **fruitsalad.ai** is a platform that creates immersive learning game-worlds using uploaded course material. It leverages research-backed pedagogical methods and supports diverse subjects through 3D environments. The service is designed for all ages and integrates with any Learning Management System (LMS) or can operate independently. It boasts a rapid setup, with high knowledge retention and testing features. FruitSalad offers various pricing options, including a free starter package and custom solutions for schools and enterprises. The platform emphasizes gamified learning, fun assessments, integrated wellness, immersive meetings, and motivation enhancement.
 
-> Get started with creating your first fruit salad now by visiting [https://portal.fruitsalad.ai](https://portal.fruitsalad.ai)
+> Get started with creating your first fruit salad now by visiting [https://www.fruitsalad.ai](https://www.fruitsalad.ai)
 
 ### **Who is fruitsalad.ai built for?**
 

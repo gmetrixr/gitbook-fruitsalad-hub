@@ -96,7 +96,6 @@
 
 ## PLATFORM
 
-* [Beta Access (Limited Time)](platform/beta-access-limited-time.md)
 * [FS Notes Bank](platform/fs-notes-bank.md)
 * [IT Permissions](platform/it-permissions/README.md)
   * [Firewall Whitelisting](platform/it-permissions/firewall-whitelisting.md)
